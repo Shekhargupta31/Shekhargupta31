@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm Shekhar Gupta<br>
 Currently pursuing B.tech from Nalanda college of Engineering with COMPUTER SCIENCE <br>
-
 <br>code lover 
 
 
